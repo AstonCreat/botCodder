@@ -1,0 +1,21 @@
+{
+  "name": "curso-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./exercicios/comandos.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.17.1",
+    "moment": "2.20.1",
+    "telegraf": "3.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
